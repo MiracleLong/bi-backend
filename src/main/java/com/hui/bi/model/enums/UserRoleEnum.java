@@ -7,9 +7,8 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author dargon
- * @create 2023-07-05
  * 用户角色枚举
+ * @author miracle
  */
 public enum UserRoleEnum {
 
@@ -61,4 +60,3 @@ public enum UserRoleEnum {
         return text;
     }
 }
-

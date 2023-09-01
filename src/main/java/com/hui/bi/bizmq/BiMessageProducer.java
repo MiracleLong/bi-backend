@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 import javax.annotation.Resource;
 
 /**
- * @author dargon
+ * @author 86176
  */
 @Component
 public class BiMessageProducer {

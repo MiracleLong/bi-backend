@@ -4,11 +4,11 @@ import javax.servlet.http.HttpServletRequest;
 import java.net.InetAddress;
 
 /**
- * @author dargon
- * @create 2023-07-03
  * 网络工具类
+ * @author 86176
  */
 public class NetUtils {
+
     /**
      * 获取客户端 IP 地址
      *
@@ -49,4 +49,5 @@ public class NetUtils {
         }
         return ip;
     }
+
 }

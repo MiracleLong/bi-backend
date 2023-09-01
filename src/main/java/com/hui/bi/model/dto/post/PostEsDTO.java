@@ -16,10 +16,9 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @author dargon
- * @create 2023-07-03
- *帖子 ES 包装类
- */
+ * 帖子 ES 包装类
+ * @author 86176
+ **/
 // todo 取消注释开启 ES（须先配置 ES）
 //@Document(indexName = "post")
 @Data

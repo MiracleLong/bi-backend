@@ -10,9 +10,8 @@ import javax.annotation.Resource;
 import java.io.File;
 
 /**
- * @author dargon
- * @create 2023-07-05
  * Cos 对象存储操作
+ * @author 86176
  */
 @Component
 public class CosManager {
@@ -49,4 +48,3 @@ public class CosManager {
         return cosClient.putObject(putObjectRequest);
     }
 }
-

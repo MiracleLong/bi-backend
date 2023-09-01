@@ -6,9 +6,8 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author dargon
- * @create 2023-07-04
  * 用户视图（脱敏）
+ * @author 86176
  */
 @Data
 public class UserVO implements Serializable {

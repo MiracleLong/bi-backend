@@ -25,9 +25,8 @@ import java.io.File;
 import java.util.Arrays;
 
 /**
- * @author dargon
- * @create 2023-07-05
  * 文件接口
+ * @author miracle
  */
 @RestController
 @RequestMapping("/file")
@@ -106,4 +105,3 @@ public class FileController {
         }
     }
 }
-

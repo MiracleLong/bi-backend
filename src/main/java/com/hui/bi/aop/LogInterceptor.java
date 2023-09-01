@@ -15,10 +15,10 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.UUID;
 
 /**
- * @author dargon
- * @create 2023-07-05
  * 请求响应日志 AOP
- */
+ *
+ * @author 86176
+ **/
 @Aspect
 @Component
 @Slf4j
@@ -53,3 +53,4 @@ public class LogInterceptor {
         return result;
     }
 }
+

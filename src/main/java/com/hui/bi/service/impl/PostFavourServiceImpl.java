@@ -21,8 +21,6 @@ import javax.annotation.Resource;
 
 /**
  * 帖子收藏服务实现
- *
- * @author dargon
  */
 @Service
 public class PostFavourServiceImpl extends ServiceImpl<PostFavourMapper, PostFavour>
@@ -110,3 +108,7 @@ public class PostFavourServiceImpl extends ServiceImpl<PostFavourMapper, PostFav
     }
 
 }
+
+
+
+

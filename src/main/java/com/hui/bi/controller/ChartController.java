@@ -39,7 +39,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 
 /**
  * chart接口
- * @author dargon
+ * @author 86176
  */
 @RestController
 @RequestMapping("/chart")

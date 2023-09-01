@@ -1,9 +1,8 @@
 package com.hui.bi.constant;
 
 /**
- * @author dargon
- * @create 2023-07-05
- * 用户常量设置
+ * 用户常量
+ * @author 86176
  */
 public interface UserConstant {
 
@@ -31,4 +30,3 @@ public interface UserConstant {
 
     // endregion
 }
-

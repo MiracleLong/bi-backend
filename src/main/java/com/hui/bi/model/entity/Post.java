@@ -7,9 +7,8 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author dargon
- * @create 2023-07-03
- * 帖子实体
+ * 帖子
+ * @author 86176
  */
 @TableName(value = "post")
 @Data

@@ -6,10 +6,9 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author dargon
- * @create 2023-07-04
- * 已登陆用户视图（脱敏）
- */
+ * 已登录用户视图（脱敏）
+ *
+ * @author 86176*/
 @Data
 public class LoginUserVO implements Serializable {
 
@@ -49,5 +48,4 @@ public class LoginUserVO implements Serializable {
     private Date updateTime;
 
     private static final long serialVersionUID = 1L;
-
 }

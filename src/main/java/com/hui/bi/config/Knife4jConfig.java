@@ -11,9 +11,10 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * @author dargon
- * @create 2023-07-03
  * Knife4j 接口文档配置
+ * https://doc.xiaominfo.com/knife4j/documentation/get_start.html
+ *
+ * @author 86176
  */
 @Configuration
 @EnableSwagger2
@@ -25,7 +26,7 @@ public class Knife4jConfig {
         return new Docket(DocumentationType.SWAGGER_2)
                 .apiInfo(new ApiInfoBuilder()
                         .title("接口文档")
-                        .description("项目接口")
+                        .description("yubi-backend")
                         .version("1.0")
                         .build())
                 .select()

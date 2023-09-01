@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author dargon
+ * @author 86176
  * @Entity com.hui.bi.model.entity.Chart
  */
 public interface ChartMapper extends BaseMapper<Chart> {

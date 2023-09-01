@@ -18,9 +18,9 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author dargon
- * @create 2023-07-05
  * 帖子点赞接口
+ * @author 86176
+ *
  */
 @RestController
 @RequestMapping("/post_thumb")
@@ -54,4 +54,3 @@ public class PostThumbController {
     }
 
 }
-

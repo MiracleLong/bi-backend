@@ -6,9 +6,8 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * @author dargon
- * @create 2023-07-03
  * 创建请求
+ * @author 86176
  */
 @Data
 public class PostAddRequest implements Serializable {

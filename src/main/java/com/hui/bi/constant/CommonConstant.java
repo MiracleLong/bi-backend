@@ -1,9 +1,9 @@
 package com.hui.bi.constant;
 
 /**
- * @author dargon
- * @create 2023-07-03
  * 通用常量
+ *
+ * @author 86176
  */
 public interface CommonConstant {
 
@@ -21,5 +21,4 @@ public interface CommonConstant {
      * BI 模型 id
      */
     long BI_MODEL_ID = 1659171950288818178L;
-
 }

@@ -10,9 +10,8 @@ import com.hui.bi.model.vo.PostVO;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author dargon
- * @create 2023-07-04
  * 帖子服务
+ * @author 86176
  */
 public interface PostService extends IService<Post> {
 

@@ -8,8 +8,8 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * @author dargon
- * @create 2023-07-03
+ * 查询请求
+ * @author 86176
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

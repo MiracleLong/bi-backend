@@ -5,9 +5,8 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author dargon
- * @create 2023-07-04
- * 用户注册请求
+ * 用户注册请求体
+ * @author 86176
  */
 @Data
 public class UserRegisterRequest implements Serializable {

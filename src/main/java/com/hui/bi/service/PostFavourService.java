@@ -9,9 +9,8 @@ import com.hui.bi.model.entity.PostFavour;
 import com.hui.bi.model.entity.User;
 
 /**
- * @author dargon
- * @create 2023-07-04
  * 帖子收藏服务
+ * @author 86176
  */
 public interface PostFavourService extends IService<PostFavour> {
 
@@ -44,4 +43,3 @@ public interface PostFavourService extends IService<PostFavour> {
      */
     int doPostFavourInner(long userId, long postId);
 }
-

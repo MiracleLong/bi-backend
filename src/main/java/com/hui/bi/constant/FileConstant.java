@@ -2,8 +2,7 @@ package com.hui.bi.constant;
 
 /**
  * 文件常量
- *
- * @author dargon
+ * @author 86176
  */
 public interface FileConstant {
 
@@ -11,5 +10,5 @@ public interface FileConstant {
      * COS 访问地址
      * todo 需替换配置
      */
-    String COS_HOST = "https://baidu.com";
+    String COS_HOST = "https://hui.icu";
 }

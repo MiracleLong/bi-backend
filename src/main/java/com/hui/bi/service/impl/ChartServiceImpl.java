@@ -8,7 +8,6 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author dargon
  */
 @Service
 public class ChartServiceImpl extends ServiceImpl<ChartMapper, Chart>

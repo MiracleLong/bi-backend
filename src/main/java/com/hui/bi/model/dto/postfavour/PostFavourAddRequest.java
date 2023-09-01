@@ -5,9 +5,8 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author dargon
- * @create 2023-07-04
- * 收藏 / 取消收藏请求
+ * 帖子收藏 / 取消收藏请求
+ * @author 86176
  */
 @Data
 public class PostFavourAddRequest implements Serializable {

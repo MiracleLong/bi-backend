@@ -3,9 +3,9 @@ package com.hui.bi.exception;
 import com.hui.bi.common.ErrorCode;
 
 /**
- * @author dargon
- * @create 2023-07-05
- * 抛出异常工具类
+ * 抛异常工具类
+ *
+ * @author 86176
  */
 public class ThrowUtils {
 
@@ -42,4 +42,3 @@ public class ThrowUtils {
         throwIf(condition, new BusinessException(errorCode, message));
     }
 }
-

@@ -8,8 +8,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author dargon
- * @create 2023-07-03
+ * MyBatis Plus 配置
+ * @author 86176
  */
 @Configuration
 @MapperScan("com.hui.bi.mapper")

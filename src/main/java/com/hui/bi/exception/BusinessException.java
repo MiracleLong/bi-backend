@@ -3,9 +3,8 @@ package com.hui.bi.exception;
 import com.hui.bi.common.ErrorCode;
 
 /**
- * @author dargon
- * @create 2023-07-05
  * 自定义异常类
+ * @author 86176
  */
 public class BusinessException extends RuntimeException {
 
@@ -14,7 +13,7 @@ public class BusinessException extends RuntimeException {
      */
     private final int code;
 
-    public BusinessException(int code, String message) {
+    public BusinessException(com.yupi.yucongming.dev.common.ErrorCode code, String message) {
         super(message);
         this.code = code;
     }

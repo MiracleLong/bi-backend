@@ -7,9 +7,8 @@ import org.springframework.context.ApplicationContextAware;
 import org.springframework.stereotype.Component;
 
 /**
- * @author dargon
- * @create 2023-07-03
- * spring 上下文获取工具
+ * Spring 上下文获取工具
+ * @author 86176
  */
 @Component
 public class SpringContextUtils implements ApplicationContextAware {

@@ -1,9 +1,9 @@
 package com.hui.bi.common;
 
 /**
- * @author dargon
- * @create 2023-07-05
  * 返回工具类
+ *
+ * @author 86176
  */
 public class ResultUtils {
 
@@ -49,4 +49,3 @@ public class ResultUtils {
         return new BaseResponse(errorCode.getCode(), null, message);
     }
 }
-

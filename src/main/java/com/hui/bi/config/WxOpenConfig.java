@@ -9,8 +9,8 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author dargon
- * @create 2023-07-03
+ * 微信开放平台配置
+ * @author 86176
  */
 @Slf4j
 @Configuration

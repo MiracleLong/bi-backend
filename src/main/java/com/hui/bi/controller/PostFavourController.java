@@ -25,9 +25,8 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author dargon
- * @create 2023-07-05
  * 帖子收藏接口
+ * @author 86176
  */
 @RestController
 @RequestMapping("/post_favour")
@@ -93,7 +92,7 @@ public class PostFavourController {
      */
     @PostMapping("/list/page")
     public BaseResponse<Page<PostVO>> listFavourPostByPage(@RequestBody PostFavourQueryRequest postFavourQueryRequest,
-                                                           HttpServletRequest request) {
+            HttpServletRequest request) {
         if (postFavourQueryRequest == null) {
             throw new BusinessException(ErrorCode.PARAMS_ERROR);
         }
@@ -107,4 +106,3 @@ public class PostFavourController {
         return ResultUtils.success(postService.getPostVOPage(postPage, request));
     }
 }
-

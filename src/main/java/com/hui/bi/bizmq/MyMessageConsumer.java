@@ -9,19 +9,12 @@ import org.springframework.messaging.handler.annotation.Header;
 import org.springframework.stereotype.Component;
 
 /**
- * @author dargon
+ * @author 86176
  */
 @Component
 @Slf4j
 public class MyMessageConsumer {
 
-
-    /**
-     *
-     * @param message
-     * @param channel
-     * @param deliveryTag
-     */
     // 指定程序监听的消息队列和确认机制
     @SneakyThrows
     @RabbitListener(queues = {"code_queue"}, ackMode = "MANUAL")

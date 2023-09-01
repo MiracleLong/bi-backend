@@ -3,9 +3,8 @@ package com.hui.bi.utils;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- * @author dargon
- * @create 2023-07-03
- * sql 工具
+ * SQL 工具
+ * @author 86176
  */
 public class SqlUtils {
 

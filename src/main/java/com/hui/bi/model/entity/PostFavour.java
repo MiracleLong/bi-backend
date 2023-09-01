@@ -10,10 +10,9 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author dargon
- * @create 2023-07-03
- * 帖子收藏实体
- */
+ * 帖子收藏
+ *
+ * @author 86176*/
 @TableName(value = "post_favour")
 @Data
 public class PostFavour implements Serializable {

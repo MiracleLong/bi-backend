@@ -4,9 +4,9 @@ import com.hui.bi.constant.CommonConstant;
 import lombok.Data;
 
 /**
- * @author dargon
- * @create 2023-07-03
  * 分页请求
+ *
+ * @author 86176
  */
 @Data
 public class PageRequest {

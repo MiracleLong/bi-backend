@@ -11,9 +11,8 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @author dargon
- * @create 2023-07-04
  * 帖子视图
+ * @author 86176
  */
 @Data
 public class PostVO implements Serializable {
@@ -116,4 +115,3 @@ public class PostVO implements Serializable {
         return postVO;
     }
 }
-

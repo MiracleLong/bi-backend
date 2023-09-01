@@ -12,7 +12,7 @@ import javax.annotation.Resource;
 
 /**
  * 用于对接 AI 平台
- * @author dargon
+ * @author 86176
  */
 @Service
 public class AiManager {

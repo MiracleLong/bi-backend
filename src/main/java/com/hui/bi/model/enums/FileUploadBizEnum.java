@@ -7,9 +7,8 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author dargon
- * @create 2023-07-05
  * 文件上传业务类型枚举
+ * @author 86176
  */
 public enum FileUploadBizEnum {
 
@@ -59,4 +58,3 @@ public enum FileUploadBizEnum {
         return text;
     }
 }
-

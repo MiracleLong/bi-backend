@@ -10,11 +10,11 @@ import com.hui.bi.model.entity.PostFavour;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * @author dargon
- * @create 2023-07-03
  * 帖子收藏数据库操作
+ * @author 86176
  */
 public interface PostFavourMapper extends BaseMapper<PostFavour> {
+
     /**
      * 分页查询收藏帖子列表
      *
@@ -27,3 +27,7 @@ public interface PostFavourMapper extends BaseMapper<PostFavour> {
                                     long favourUserId);
 
 }
+
+
+
+

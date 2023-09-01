@@ -4,8 +4,8 @@ import com.baomidou.mybatisplus.extension.service.IService;
 import com.hui.bi.model.entity.Chart;
 
 /**
- *
- * @author dargon
+ * chart 服务
+ * @author 86176
  */
 public interface ChartService extends IService<Chart> {
 

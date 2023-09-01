@@ -10,7 +10,7 @@ import java.util.Date;
 
 /**
  * 更新请求
- * @author dargon
+ * @author 86176
  */
 @Data
 public class ChartUpdateRequest implements Serializable {

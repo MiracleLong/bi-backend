@@ -10,9 +10,8 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author dargon
- * @create 2023-07-03
- * 帖子点赞实体
+ * 帖子点赞
+ * @author 86176
  */
 @TableName(value = "post_thumb")
 @Data

@@ -5,9 +5,8 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author dargon
- * @create 2023-07-04
  * 文件上传请求
+ * @author 86176
  */
 @Data
 public class UploadFileRequest implements Serializable {

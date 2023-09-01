@@ -5,9 +5,8 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author dargon
- * @create 2023-07-04
- * 用户更新信息请求
+ * 用户更新请求
+ * @author 86176
  */
 @Data
 public class UserUpdateRequest implements Serializable {

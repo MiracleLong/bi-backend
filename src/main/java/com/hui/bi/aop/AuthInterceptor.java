@@ -19,11 +19,10 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author dargon
- * @create 2023-07-05
  * 权限校验 AOP
+ *
+ * @author 86176
  */
-
 @Aspect
 @Component
 public class AuthInterceptor {
@@ -67,3 +66,4 @@ public class AuthInterceptor {
         return joinPoint.proceed();
     }
 }
+

@@ -8,9 +8,8 @@ import lombok.EqualsAndHashCode;
 import java.io.Serializable;
 
 /**
- * @author dargon
- * @create 2023-07-04
- * 查询收藏请求
+ * 帖子收藏查询请求
+ * @author 86176
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

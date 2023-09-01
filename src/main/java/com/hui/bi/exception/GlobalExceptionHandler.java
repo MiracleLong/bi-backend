@@ -8,9 +8,8 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 /**
- * @author dargon
- * @create 2023-07-05
- * 全局异常处理
+ * 全局异常处理器
+ * @author 86176
  */
 @RestControllerAdvice
 @Slf4j

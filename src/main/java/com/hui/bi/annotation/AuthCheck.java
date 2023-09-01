@@ -6,9 +6,9 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author dargon
- * @create 2023-07-05
  * 权限校验
+ *
+ * @author 86176
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
@@ -22,3 +22,4 @@ public @interface AuthCheck {
     String mustRole() default "";
 
 }
+

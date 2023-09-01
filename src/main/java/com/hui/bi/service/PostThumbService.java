@@ -5,9 +5,8 @@ import com.hui.bi.model.entity.PostThumb;
 import com.hui.bi.model.entity.User;
 
 /**
- * @author dargon
- * @create 2023-07-04
  * 帖子点赞服务
+ * @author 86176
  */
 public interface PostThumbService extends IService<PostThumb> {
 
@@ -29,4 +28,3 @@ public interface PostThumbService extends IService<PostThumb> {
      */
     int doPostThumbInner(long userId, long postId);
 }
-

@@ -15,8 +15,7 @@ import java.util.stream.Collectors;
 
 /**
  * 增量同步帖子到 es
- *
- * @author dargon
+ * @author 86176
  */
 // todo 取消注释开启任务
 //@Component
