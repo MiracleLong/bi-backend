@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author 86176
+ * @author dargon
  */
 @Configuration
 @ConfigurationProperties(prefix = "spring.redis")

@@ -8,7 +8,7 @@ import java.util.Date;
 
 /**
  * 图表信息表
- * @author 86176
+ * @author dargon
  * @TableName chart
  */
 @TableName(value ="chart")

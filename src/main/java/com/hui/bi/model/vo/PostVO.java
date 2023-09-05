@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * 帖子视图
- * @author 86176
+ * @author dargon
  */
 @Data
 public class PostVO implements Serializable {

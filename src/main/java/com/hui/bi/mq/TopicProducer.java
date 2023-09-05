@@ -7,7 +7,7 @@ import com.rabbitmq.client.ConnectionFactory;
 import java.util.Scanner;
 
 /**
- * @author 86176
+ * @author dargon
  */
 public class TopicProducer {
 

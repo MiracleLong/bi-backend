@@ -3,7 +3,7 @@ package com.hui.bi.common;
 /**
  * 返回工具类
  *
- * @author 86176
+ * @author dargon
  */
 public class ResultUtils {
 

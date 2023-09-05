@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 帖子 ES 操作
- * @author 86176
+ * @author dargon
  */
 public interface PostEsDao extends ElasticsearchRepository<PostEsDTO, Long> {
     /**

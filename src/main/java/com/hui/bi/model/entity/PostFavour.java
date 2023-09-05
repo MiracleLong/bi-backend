@@ -12,7 +12,7 @@ import java.util.Date;
 /**
  * 帖子收藏
  *
- * @author 86176*/
+ * @author dargon*/
 @TableName(value = "post_favour")
 @Data
 public class PostFavour implements Serializable {

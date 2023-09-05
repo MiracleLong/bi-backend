@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * 帖子服务
- * @author 86176
+ * @author dargon
  */
 public interface PostService extends IService<Post> {
 

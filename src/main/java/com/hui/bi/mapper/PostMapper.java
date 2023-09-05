@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * 帖子数据库操作
- * @author 86176
+ * @author dargon
  */
 public interface PostMapper extends BaseMapper<Post> {
 

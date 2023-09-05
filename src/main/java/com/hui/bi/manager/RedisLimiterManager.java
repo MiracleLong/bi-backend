@@ -12,7 +12,7 @@ import javax.annotation.Resource;
 
 /**
  * 专门提供 RedisLimiter 限流基础服务的（提供了通用的能力）
- * @author 86176
+ * @author dargon
  */
 @Service
 public class RedisLimiterManager {

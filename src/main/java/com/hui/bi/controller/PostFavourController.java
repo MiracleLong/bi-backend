@@ -26,7 +26,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * 帖子收藏接口
- * @author 86176
+ * @author dargon
  */
 @RestController
 @RequestMapping("/post_favour")

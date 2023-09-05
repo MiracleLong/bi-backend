@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * MyBatis Plus 配置
- * @author 86176
+ * @author dargon
  */
 @Configuration
 @MapperScan("com.hui.bi.mapper")

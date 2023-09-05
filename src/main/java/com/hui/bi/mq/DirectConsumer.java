@@ -6,7 +6,7 @@ import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.DeliverCallback;
 
 /**
- * @author 86176
+ * @author dargon
  */
 public class DirectConsumer {
 

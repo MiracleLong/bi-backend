@@ -5,7 +5,7 @@ import com.hui.bi.model.entity.PostThumb;
 
 /**
  * 帖子点赞数据库操作
- * @author 86176
+ * @author dargon
  */
 public interface PostThumbMapper extends BaseMapper<PostThumb> {
 

@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  * 帖子收藏查询请求
- * @author 86176
+ * @author dargon
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

@@ -8,7 +8,7 @@ import java.nio.charset.StandardCharsets;
 
 /**
  *
- * @author 86176
+ * @author dargon
  */
 public class SingleProducer {
 

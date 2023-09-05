@@ -4,7 +4,7 @@ import org.springframework.stereotype.Service;
 
 /**
  * 调用 AI 平台的示例代码
- * @author 86176
+ * @author dargon
  */
 @Service
 public class OpenAiApi {

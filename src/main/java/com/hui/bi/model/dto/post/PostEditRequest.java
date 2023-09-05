@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * 编辑请求
- * @author 86176
+ * @author dargon
  */
 @Data
 public class PostEditRequest implements Serializable {

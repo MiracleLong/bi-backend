@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  *
- * @author 86176
+ * @author dargon
  */
 public class DlxDirectConsumer {
 

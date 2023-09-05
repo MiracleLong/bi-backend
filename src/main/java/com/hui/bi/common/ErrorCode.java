@@ -3,7 +3,7 @@ package com.hui.bi.common;
 /**
  * 自定义错误码
  *
- * @author 86176
+ * @author dargon
  */
 public enum ErrorCode {
 

@@ -10,7 +10,7 @@ import com.hui.bi.model.entity.User;
 
 /**
  * 帖子收藏服务
- * @author 86176
+ * @author dargon
  */
 public interface PostFavourService extends IService<PostFavour> {
 

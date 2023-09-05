@@ -9,7 +9,7 @@ import org.springframework.messaging.handler.annotation.Header;
 import org.springframework.stereotype.Component;
 
 /**
- * @author 86176
+ * @author dargon
  */
 @Component
 @Slf4j

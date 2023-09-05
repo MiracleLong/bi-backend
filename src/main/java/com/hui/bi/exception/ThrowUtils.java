@@ -5,7 +5,7 @@ import com.hui.bi.common.ErrorCode;
 /**
  * 抛异常工具类
  *
- * @author 86176
+ * @author dargon
  */
 public class ThrowUtils {
 

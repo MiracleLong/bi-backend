@@ -4,7 +4,7 @@ import com.hui.bi.common.ErrorCode;
 
 /**
  * 自定义异常类
- * @author 86176
+ * @author dargon
  */
 public class BusinessException extends RuntimeException {
 
@@ -13,7 +13,7 @@ public class BusinessException extends RuntimeException {
      */
     private final int code;
 
-    public BusinessException(com.yupi.yucongming.dev.common.ErrorCode code, String message) {
+    public BusinessException(int code, String message) {
         super(message);
         this.code = code;
     }

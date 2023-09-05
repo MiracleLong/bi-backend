@@ -2,7 +2,7 @@ package com.hui.bi.constant;
 
 /**
  * 用户常量
- * @author 86176
+ * @author dargon
  */
 public interface UserConstant {
 

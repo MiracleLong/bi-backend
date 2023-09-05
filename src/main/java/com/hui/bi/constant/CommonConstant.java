@@ -3,7 +3,7 @@ package com.hui.bi.constant;
 /**
  * 通用常量
  *
- * @author 86176
+ * @author dargon
  */
 public interface CommonConstant {
 

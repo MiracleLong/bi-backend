@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * 创建请求
- * @author 86176
+ * @author dargon
  */
 @Data
 public class ChartAddRequest implements Serializable {

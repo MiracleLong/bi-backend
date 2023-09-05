@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author 86176
+ * @author dargon
  */
 public class DirectProducer {
 

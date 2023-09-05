@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * 文件上传请求
- * @author 86176
+ * @author dargon
  */
 @Data
 public class UploadFileRequest implements Serializable {

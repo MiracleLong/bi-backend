@@ -5,7 +5,7 @@ import java.net.InetAddress;
 
 /**
  * 网络工具类
- * @author 86176
+ * @author dargon
  */
 public class NetUtils {
 

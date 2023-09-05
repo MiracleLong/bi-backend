@@ -11,7 +11,7 @@ import java.util.Date;
 
 /**
  * 帖子点赞
- * @author 86176
+ * @author dargon
  */
 @TableName(value = "post_thumb")
 @Data
